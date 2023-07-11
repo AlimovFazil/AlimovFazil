@@ -27,7 +27,7 @@
 <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="mui" width="40" height="40"/> </a>
 <a href="https://kali.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="kali" width="40" /> </a>
 </p>
-<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true" alt="chakra ui" width="70" /> </a>
+<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true" alt="chakra ui" height="20"/> </a>
 <a href="https://reactrouter.com" target="_blank" rel="noreferrer"> <img src="https://reactrouter.com/_brand/react-router-mark-color.png" alt="react router" width="40" /> </a>
 <a href="https://wordpress.org" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/020/975/579/original/wordpress-logo-wordpress-icon-transparent-free-png.png" alt="wordpress" width="40" height="40" /> </a>
 </p>
