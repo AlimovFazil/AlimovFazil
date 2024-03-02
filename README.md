@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/majdimokhtar/github-images/main/newbannerjs.gif)](https://github.com/AlimovFoziljon)
 <h1 align="center">Hi 👋, I'm Alimov Foziljon</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ">
+<img align="right" alt="Coding" width="400" src="https://animegifwallpaper.com/wp-content/uploads/2023/05/Anime-GIF-Wallpaper-4k.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimovfoziljon&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="alimovfoziljon" /> </p>
 
