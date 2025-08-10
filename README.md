@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alimovfoziljon&show_icons=true&locale=en" alt="alimovfoziljon" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimovfoziljon&" alt="alimovfoziljon" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimovfazil&" alt="alimovfoziljon" /></p>
